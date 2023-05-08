@@ -1,1 +1,1 @@
-# Cards-Js-Marathon
+https://sadbatya.github.io/Cards-Js
